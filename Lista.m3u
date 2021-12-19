@@ -618,7 +618,7 @@ https://streamingraddios.online/proxy/rmelo?mp=/stream
 https://api.webrad.io/data/streams/30/180
 #EXTINF:-1, Radio Online,Música De Más
 http://emisiones.com.uy:8120/demas
-#EXTINF:-1, Radio Online,Circuito21.uy
+#EXTINF:-1, Radio Online,Circuito21
 http://emisiones.com.uy:5109/circuito
 #EXTINF:-1, Radio Online,Cenit
 https://argentina.republicahosting.com:1931/live
