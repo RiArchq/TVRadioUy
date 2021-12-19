@@ -1,96 +1,96 @@
 #EXTM3U
-#EXTINF:-1,Actualizada 19/12/2021,TVRío Play
+#EXTINF:-1, Actualizada 19/12/2021,TVRío Play
 https://i.imgur.com/jhdpCad.png
 
-#EXTINF:-1,TV,Canal 4 [HD1]
+#EXTINF:-1, TV,Canal 4 [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/8334
-#EXTINF:-1,TV,Canal 4 [HD2]
+#EXTINF:-1, TV,Canal 4 [HD2]
 http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/52811
-#EXTINF:-1,TV,Canal 4 [HD3]
+#EXTINF:-1, TV,Canal 4 [HD3]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3766
-#EXTINF:-1,TV,Canal 5 [HD1]
+#EXTINF:-1, TV,Canal 5 [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/19351
-#EXTINF:-1,TV,TV Ciudad [HD1]
+#EXTINF:-1, TV,TV Ciudad [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/19352
-#EXTINF:-1,TV,TV Ciudad [HD2]
+#EXTINF:-1, TV,TV Ciudad [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/16136
-#EXTINF:-1,TV,Canal 10 [HD1]
+#EXTINF:-1, TV,Canal 10 [HD1]
 https://www.subrayado.com.uy/resources/_post/subrayado/get-vivo.php
-#EXTINF:-1,TV,Canal 10 [HD2]
+#EXTINF:-1, TV,Canal 10 [HD2]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3763
-#EXTINF:-1,TV,Canal 10 [SD1]
+#EXTINF:-1, TV,Canal 10 [SD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3344
-#EXTINF:-1,TV,Canal 10 [SD2]
+#EXTINF:-1, TV,Canal 10 [SD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/18567
-#EXTINF:-1,TV,Teledoce [HD1]
+#EXTINF:-1, TV,Teledoce [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3620
-#EXTINF:-1,TV,Teledoce [HD2]
+#EXTINF:-1, TV,Teledoce [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/18731
-#EXTINF:-1,TV,Teledoce [SD1]
+#EXTINF:-1, TV,Teledoce [SD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/18578
-#EXTINF:-1,TV,La Red [HD1]
+#EXTINF:-1, TV,La Red [HD1]
 https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8
-#EXTINF:-1,TV,La Red [HD2]
+#EXTINF:-1, TV,La Red [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/35428
-#EXTINF:-1,TV,VTV [HD1]
+#EXTINF:-1, TV,VTV [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/22204
-#EXTINF:-1,TV,VTV [HD2]
+#EXTINF:-1, TV,VTV [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3802
-#EXTINF:-1,TV,VTV [SD1]
+#EXTINF:-1, TV,VTV [SD1]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54099
-#EXTINF:-1,TV,VTV [SD2]
+#EXTINF:-1, TV,VTV [SD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3598
-#EXTINF:-1,TV,VTV Plus [HD1]
+#EXTINF:-1, TV,VTV Plus [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/19354
-#EXTINF:-1,TV,VTV Plus [HD2]
+#EXTINF:-1, TV,VTV Plus [HD2]
 http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/52836
-#EXTINF:-1,TV,VTV Plus [HD3]
+#EXTINF:-1, TV,VTV Plus [HD3]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3756
-#EXTINF:-1,TV,Directv Sports Uruguay [HD1]
+#EXTINF:-1, TV,Directv Sports Uruguay [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/2041
-#EXTINF:-1,TV,ESPN Uruguay [HD1]
+#EXTINF:-1, TV,ESPN Uruguay [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3621
-#EXTINF:-1,TV,Maroñas [Eventual] [HD1]
+#EXTINF:-1, TV,Maroñas [Eventual] [HD1]
 https://codere-mls-uruguay.akamaized.net/hls/live/2004038/MSL4URUGUAY/video_0/video_0.m3u8
-#EXTINF:-1,TV,Maroñas [Eventual] [SD1]
+#EXTINF:-1, TV,Maroñas [Eventual] [SD1]
 http://wowza.montevideo.net.uy:1941/hipica/livestream/chunklist.m3u8
-#EXTINF:-1,TV,Maroñas [24/7] [HD1]
+#EXTINF:-1, TV,Maroñas [24/7] [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/31618
-#EXTINF:-1,TV,AUF TV [HD1]
+#EXTINF:-1, TV,AUF TV [HD1]
 https://dw8hje12wnmmp.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
-#EXTINF:-1,TV,1000 X Hora TV [HD1]
+#EXTINF:-1, TV,1000 X Hora TV [HD1]
 http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156446
-#EXTINF:-1,TV,1000 X Hora TV [HD2]
+#EXTINF:-1, TV,1000 X Hora TV [HD2]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3768
-#EXTINF:-1,TV,A+V [HD1]
+#EXTINF:-1, TV,A+V [HD1]
 rtmp://streaming.urutel.com:1935/amasb/vivo
-#EXTINF:-1,TV,A+V [HD2]
+#EXTINF:-1, TV,A+V [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/51359
-#EXTINF:-1,TV,Charrúa TV [HD1]
+#EXTINF:-1, TV,Charrúa TV [HD1]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
-#EXTINF:-1,TV,Universal TV [HD1]
+#EXTINF:-1, TV,Universal TV [HD1]
 https://s003.tierxhosting.com:19360/UniversalUruguay/UniversalUruguay.m3u8
-#EXTINF:-1,TV,Canal Más [HD1]
+#EXTINF:-1, TV,Canal Más [HD1]
 https://tv.tvcontrolcp.com:1936/8136/8136/playlist.m3u8
-#EXTINF:-1,TV,SJC Canal 2 [HD1]
+#EXTINF:-1, TV,SJC Canal 2 [HD1]
 https://stmv1.voxhdnet.com/sjccanal2/sjccanal2/playlist.m3u8
-#EXTINF:-1,TV,UCL [HD1]
+#EXTINF:-1, TV,UCL [HD1]
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8
-#EXTINF:-1,TV,UCL [SD1]
+#EXTINF:-1, TV,UCL [SD1]
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
-#EXTINF:-1,TV,Canal 7 Punta del Este | Maldonado [HD1]
+#EXTINF:-1, TV,Canal 7 Punta del Este | Maldonado [HD1]
 http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156449
-#EXTINF:-1,TV,Canal 7 Punta del Este | Maldonado [HD2]
+#EXTINF:-1, TV,Canal 7 Punta del Este | Maldonado [HD2]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3773
-#EXTINF:-1,TV,Canal Once Punta del Este | Maldonado [HD1]
+#EXTINF:-1, TV,Canal Once Punta del Este | Maldonado [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/1116428
-#EXTINF:-1,TV,TVF | Florida [HD1]
+#EXTINF:-1, TV,TVF | Florida [HD1]
 http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
-#EXTINF:-1,TV,Tele 8 Mercedes | Soriano [HD1]
+#EXTINF:-1, TV,Tele 8 Mercedes | Soriano [HD1]
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
-#EXTINF:-1,TV,R Más | Rivera [HD1]
+#EXTINF:-1, TV,R Más | Rivera [HD1]
 https://srv1.zcast.com.br/andres6384/andres6384/chunklist.m3u8
-#EXTINF:-1,TV,Clic Regional TV | Artigas
+#EXTINF:-1, TV,Clic Regional TV | Artigas
 https://video01.kshost.com.br:4443/sergio7202/sergio7202/chunklist.m3u8
 
 #EXTINF:-1, AM,Radio Colonia 550
@@ -251,7 +251,7 @@ http://emisiones.com.uy:8106/agr.mp3
 https://server-usa2.radioseninternet.net/8074/stream
 #EXTINF:-1, AM,Difusora Americana 1560 | Flores
 http://emisiones.com.uy:8102/difu
-#EXTINF:-1, AM,1560 Radio Vichadero | Rivera
+#EXTINF:-1, AM,Radio Vichadero 1560 | Rivera
 http://204.197.245.100:9146/;
 #EXTINF:-1, AM,Radio Canelones 1570
 http://204.197.245.100:8276/;
@@ -410,6 +410,8 @@ http://radio1.oceanofm.com:8010/listen.pls&type=mp3
 https://ssl.hostingservicios.com:7768/;
 #EXTINF:-1, FM,Treinta y Tres 94.3
 https://server-usa2.radioseninternet.net/8138/stream
+#EXTINF:-1, FM,La Cotorra 94.3 | Montevideo
+http://204.197.245.100:8238/;
 #EXTINF:-1, FM,Internacional 94.5 | Rivera
 http://streaming2.locucionar.com:8917/stream
 #EXTINF:-1, FM,Cordialidad 94.9 | Paysandú
@@ -558,6 +560,8 @@ https://streamingraddios.online/proxy/vhcastro?mp=/stream/;stream/1
 http://usa15.ciudaddigital.com.uy:8048/VidaFM
 #EXTINF:-1, FM,Metrópolis 104.9 | Montevideo
 https://metropolis2.net.com.uy:8020/stream
+#EXTINF:-1, FM,Del Carmen 105.3 | Montevideo
+http://radios-online.info:2930/;
 #EXTINF:-1, FM,La Galena 105.5 | Cerro Largo
 http://gnstreammedia.com:8804/;
 #EXTINF:-1, FM,Piedra Alta 105.5 | Florida
@@ -614,6 +618,30 @@ https://streamingraddios.online/proxy/rmelo?mp=/stream
 https://api.webrad.io/data/streams/30/180
 #EXTINF:-1, Radio Online,Música De Más
 http://emisiones.com.uy:8120/demas
+#EXTINF:-1, Radio Online,Circuito21.uy
+http://emisiones.com.uy:5109/circuito
+#EXTINF:-1, Radio Online,Cenit
+https://argentina.republicahosting.com:1931/live
+#EXTINF:-1, Radio Online,Energy Uruguay
+https://server6.hostradios.com:7108/;
+#EXTINF:-1, Radio Online,La Movida Online
+http://192.3.104.131:8068/stream/1/
+#EXTINF:-1, Radio Online,Nostalgia Radio
+https://centova.streamrdm.com:4087/stream
+#EXTINF:-1, Radio Online,Radio Informarte
+http://emisiones.com.uy:8131/yoru
+#EXTINF:-1, Radio Online,Radio La Zurda
+https://usa2.fastcast4u.com/proxy/radiolaz?mp=/stream/1/
+#EXTINF:-1, Radio Online,PsyRadio Progressive
+http://streamer.psyradio.org:8010/;listen.mp3
+#EXTINF:-1, Radio Online,PsyRadio Chillout
+http://streamer.psyradio.org:8020/;listen.mp3
+#EXTINF:-1, Radio Online,PsyRadio PsyTrance
+http://streamer.psyradio.org:8030/;listen.mp3
+#EXTINF:-1, Radio Online,PsyRadio Alternative
+http://streamer.psyradio.org:8040/;listen.mp3
+#EXTINF:-1, Radio Online,Cámara de Representantes [Audio de Sesiones]
+https://audiosesion.diputados.gub.uy/listen
 
 #EXTINF:-1, Radiodeportes,Fútbol al Máximo [Oriental 770]
 http://radiolatina.live:7906/1
