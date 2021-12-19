@@ -614,8 +614,6 @@ https://radio13.servidorderadio.net:7107/stream
 http://streaming2.hostingmontevideo.com/8052/RNFU9ACR7
 #EXTINF:-1, Radio Online,Montevideo Online
 https://streamingraddios.online/proxy/rmelo?mp=/stream
-#EXTINF:-1, Radio Online,180 Radio
-https://api.webrad.io/data/streams/30/180
 #EXTINF:-1, Radio Online,Música De Más
 http://emisiones.com.uy:8120/demas
 #EXTINF:-1, Radio Online,Circuito21
