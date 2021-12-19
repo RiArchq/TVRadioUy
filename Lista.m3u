@@ -17,11 +17,11 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/16136
 #EXTINF:-1,TV,Canal 10 [HD1]
 https://www.subrayado.com.uy/resources/_post/subrayado/get-vivo.php
 #EXTINF:-1,TV,Canal 10 [HD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18567
-#EXTINF:-1,TV,Canal 10 [HD3]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3763
 #EXTINF:-1,TV,Canal 10 [SD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3344
+#EXTINF:-1,TV,Canal 10 [SD2]
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18567
 #EXTINF:-1,TV,Teledoce [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3620
 #EXTINF:-1,TV,Teledoce [HD2]
@@ -36,9 +36,9 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/35428
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/22204
 #EXTINF:-1,TV,VTV [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3802
-#EXTINF:-1,TV,VTV [HD3]
-http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54099
 #EXTINF:-1,TV,VTV [SD1]
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54099
+#EXTINF:-1,TV,VTV [SD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3598
 #EXTINF:-1,TV,VTV Plus [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/19354
