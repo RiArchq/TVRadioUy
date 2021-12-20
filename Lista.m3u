@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Actualizada 19/12/2021,TVRío Play
+#EXTINF:-1, Actualizada 20/12/2021,TVRío Play
 https://i.imgur.com/jhdpCad.png
 
 #EXTINF:-1, TV,Canal 4 [HD1]
@@ -8,12 +8,20 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/8334
 http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/52811
 #EXTINF:-1, TV,Canal 4 [HD3]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3766
+#EXTINF:-1, TV,Canal 4 [SD1]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156438
 #EXTINF:-1, TV,Canal 5 [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/19351
+#EXTINF:-1, TV,Canal 5 [SD1]
+http://qqtv.nl:8080/norma/12345/87107
+#EXTINF:-1, TV,Canal 5 [SD2]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/3823
 #EXTINF:-1, TV,TV Ciudad [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/19352
 #EXTINF:-1, TV,TV Ciudad [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/16136
+#EXTINF:-1, TV,TV Ciudad [HD3]
+http://qqtv.nl:8080/norma/12345/87105
 #EXTINF:-1, TV,Canal 10 [HD1]
 https://www.subrayado.com.uy/resources/_post/subrayado/get-vivo.php
 #EXTINF:-1, TV,Canal 10 [HD2]
@@ -21,7 +29,7 @@ http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3763
 #EXTINF:-1, TV,Canal 10 [SD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3344
 #EXTINF:-1, TV,Canal 10 [SD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18567
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156442
 #EXTINF:-1, TV,Teledoce [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3620
 #EXTINF:-1, TV,Teledoce [HD2]
@@ -32,30 +40,46 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/18578
 https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8
 #EXTINF:-1, TV,La Red [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/35428
+#EXTINF:-1, TV,La Red [HD3]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/3827
+#EXTINF:-1, TV,VTV [FHD1]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156460
 #EXTINF:-1, TV,VTV [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/22204
 #EXTINF:-1, TV,VTV [HD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3802
+#EXTINF:-1, TV,VTV [HD3]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/138272
 #EXTINF:-1, TV,VTV [SD1]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54099
 #EXTINF:-1, TV,VTV [SD2]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3598
+#EXTINF:-1, TV,VTV Plus [FHD1]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156464
 #EXTINF:-1, TV,VTV Plus [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/19354
 #EXTINF:-1, TV,VTV Plus [HD2]
 http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/52836
 #EXTINF:-1, TV,VTV Plus [HD3]
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3756
+#EXTINF:-1, TV,VTV Plus [SD1]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156462
 #EXTINF:-1, TV,Directv Sports Uruguay [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/2041
+#EXTINF:-1, TV,Directv Sports Uruguay [HD2]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156451
 #EXTINF:-1, TV,ESPN Uruguay [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3621
+#EXTINF:-1, TV,GOLTV Uruguay [HD1]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156457
 #EXTINF:-1, TV,Maroñas [Eventual] [HD1]
 https://codere-mls-uruguay.akamaized.net/hls/live/2004038/MSL4URUGUAY/video_0/video_0.m3u8
 #EXTINF:-1, TV,Maroñas [Eventual] [SD1]
 http://wowza.montevideo.net.uy:1941/hipica/livestream/chunklist.m3u8
 #EXTINF:-1, TV,Maroñas [24/7] [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/31618
+#EXTINF:-1, TV,Maroñas [24/7] [HD2]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156452
 #EXTINF:-1, TV,AUF TV [HD1]
 https://dw8hje12wnmmp.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
 #EXTINF:-1, TV,1000 X Hora TV [HD1]
@@ -84,6 +108,8 @@ http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156449
 http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3773
 #EXTINF:-1, TV,Canal Once Punta del Este | Maldonado [HD1]
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/1116428
+#EXTINF:-1, TV,Canal Once Punta del Este | Maldonado [HD2]
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/3819
 #EXTINF:-1, TV,TVF | Florida [HD1]
 http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:-1, TV,Tele 8 Mercedes | Soriano [HD1]
@@ -445,7 +471,7 @@ http://emisiones.com.uy:8108/vision
 #EXTINF:-1, FM,Nico Pérez 96.5 | Lavalleja
 https://radiosar.com/9358/stream
 #EXTINF:-1, FM,Radio Viva Punta 96.7 | Maldonado
-https://streaming2.hostingmontevideo.com:7001/;
+https://streaming2.hostingmontevideo.com/8036/stream
 #EXTINF:-1, FM,Babel 97.1 | Montevideo
 https://radios.iwstreaming.uy/8030/stream
 #EXTINF:-1, FM,Primavera 97.1 | Soriano
@@ -460,8 +486,6 @@ http://emisiones.com.uy:8114/mara
 https://streamingv2.shoutcast.com/maxima-fm-uy-pdu
 #EXTINF:-1, FM,M24 97.9 | Montevideo
 https://streaming2.hostingmontevideo.com:7003/;
-#EXTINF:-1, FM,Bohemia Colonia 97.9
-https://radiopro.com.uy/radio/8000/bohemia
 #EXTINF:-1, FM,Adeom 98.1 | Florida
 http://s4.mexside.net:2142/;#.mp3
 #EXTINF:-1, FM,Cadena Digital 98.3 | Rocha
