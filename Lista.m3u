@@ -120,7 +120,7 @@ https://srv1.zcast.com.br/andres6384/andres6384/chunklist.m3u8
 https://video01.kshost.com.br:4443/sergio7202/sergio7202/chunklist.m3u8
 
 #EXTINF:-1, AM,Radio Colonia 550
-https://streaming1.hostingmontevideo.com:7019/;
+https://20823.live.streamtheworld.com/COLONIA_ADP.aac
 #EXTINF:-1, AM,Radio Clarín 580 | Montevideo
 http://usa15.ciudaddigital.com.uy:8032/ClarinAM
 #EXTINF:-1, AM,Radio Rural 610 | Montevideo
@@ -744,9 +744,9 @@ https://estacion.erro.com.uy/camaramer.jpg
 https://estacion.erro.com.uy/camara.jpg
 #EXTINF:-1, Cámaras,Río Negro | Young - Montevideo esq. Dr. Zeballos
 https://estacion.erro.com.uy/camarayou.jpg
-#EXTINF:-1, Cámaras,Paysandú | Ruta 3 km. 367,5
+#EXTINF:-1, Cámaras,Paysandú | Ruta 3 km. 367.5
 https://estacion.erro.com.uy/camarapdu.jpg
-#EXTINF:-1, Cámaras,Cerro Largo | Río Branco - Ruta 26 km. 86,5
+#EXTINF:-1, Cámaras,Cerro Largo | Río Branco - Ruta 26 km. 86.5
 https://estacion.erro.com.uy/camararbra.jpg
 #EXTINF:-1, Cámaras,Treinta y Tres | Varela - Ruta 8 km. 260
 https://estacion.erro.com.uy/camaravar.jpg
@@ -756,3 +756,36 @@ https://cdn4.hostlagarto.com:8081/static/fmpiedraaltatv/playlist.m3u8
 https://estacion.erro.com.uy/camaratbo.jpg
 #EXTINF:-1, Cámaras,Durazno | Ruta 5 km. 181
 https://estacion.erro.com.uy/camaradzo.jpg
+
+#EXTINF:-1, E01,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%201%20Quien%20nada%20hace%2C%20nunca%20se%20equivoca..mp4
+#EXTINF:-1, E02,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%202%20Estamos%20tomando%20lo%20mejor%20de%20todos%20los%20mundos..mp4
+#EXTINF:-1, E03,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%203%20Un%20problema%20%C3%BAnico%20en%20el%20mundo.mp4
+#EXTINF:-1, E04,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%204%20El%20Metro%20es%20un%20gran%20lugar%20para%20trabajar.mp4
+#EXTINF:-1, E05,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%205%20Esto%20es%20una%20inagotable%20fuente%20de%20trabajo..mp4
+#EXTINF:-1, E06,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%206%20A%20todos%20nos%20va%20a%20llegar%20nuestro%20Uber..mp4
+#EXTINF:-1, E07,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%207%20Nuestra%20materia%20prima%20es%20el%20movimiento..mp4
+#EXTINF:-1, E08,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%208%20El%20hombre%20desciende%20del%20mono.mp4
+#EXTINF:-1, E09,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%209%20Vio%20esa%20puerta%20Yo%20la%20vi%20primero.mp4
+#EXTINF:-1, E10,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%2010%20El%20management%20bordea%20lo%20sobrenatural%20porque%20trabaja%20con%20esp%C3%ADritus..mp4
+#EXTINF:-1, E11,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%2011%20Un%20tema%20del%20que%20no%20se%20puede%20hablar.mp4
+#EXTINF:-1, E12,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%2012%20El%20medio%20de%20transporte%20es%20el%20mensaje..mp4
+#EXTINF:-1, E13,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%2013%20Todo%20lo%20que%20hace%20ruido%20est%C3%A1%20por%20romperse.mp4
+#EXTINF:-1, E14,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%2014%20Los%20ni%C3%B1os%20son%20el%20reservorio%20del%20futuro.mp4
+#EXTINF:-1, E15,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%2015%20Vamos%20a%20decirle%20No%20al%20No.mp4
+#EXTINF:-1, E16,Metro de Montevideo: La serie
+https://ia601404.us.archive.org/18/items/metro-de-montevideo-ep.-11-un-tema-del-que-no-se-puede-hablar/Metro%20de%20Montevideo%20-%20Ep.%2016%20Nada%20podemos%20esperar%20sino%20de%20nosotros%20mismos..mp4
