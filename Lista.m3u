@@ -1,99 +1,97 @@
 #EXTM3U
-#EXTINF:-1, Actualizada 20/12/2021,TVRío Play
+#EXTINF:-1, Lista actualizada 15/01/2022,TVRío Play
 https://i.imgur.com/jhdpCad.png
+#EXTINF:-1, @Medios_Rioplatenses,Comentarios y reportes en Telegram
+https://i.imgur.com/jAz8T0N.png
 
 #EXTINF:-1, TV,Canal 4 [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8334
+http://tv.nousiptv.com:8080/rommy/12345/8334
 #EXTINF:-1, TV,Canal 4 [HD2]
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/52811
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1610
 #EXTINF:-1, TV,Canal 4 [HD3]
-http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3766
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102360
 #EXTINF:-1, TV,Canal 4 [SD1]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156438
+http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3816.m3u8
 #EXTINF:-1, TV,Canal 5 [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/19351
+http://tv.nousiptv.com:8080/rommy/12345/19351
 #EXTINF:-1, TV,Canal 5 [SD1]
 http://qqtv.nl:8080/norma/12345/87107
-#EXTINF:-1, TV,Canal 5 [SD2]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/3823
 #EXTINF:-1, TV,TV Ciudad [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/19352
+http://tv.nousiptv.com:8080/rommy/12345/16136
 #EXTINF:-1, TV,TV Ciudad [HD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/16136
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1605
 #EXTINF:-1, TV,TV Ciudad [HD3]
 http://qqtv.nl:8080/norma/12345/87105
 #EXTINF:-1, TV,Canal 10 [HD1]
 https://www.subrayado.com.uy/resources/_post/subrayado/get-vivo.php
 #EXTINF:-1, TV,Canal 10 [HD2]
-http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3763
+http://tv.nousiptv.com:8080/rommy/12345/18567
+#EXTINF:-1, TV,Canal 10 [HD3]
+http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3818.m3u8
 #EXTINF:-1, TV,Canal 10 [SD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3344
+http://tv.nousiptv.com:8080/rommy/12345/3344
 #EXTINF:-1, TV,Canal 10 [SD2]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156442
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24670
 #EXTINF:-1, TV,Teledoce [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3620
+http://tv.nousiptv.com:8080/rommy/12345/3620
 #EXTINF:-1, TV,Teledoce [HD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18731
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102362
 #EXTINF:-1, TV,Teledoce [SD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18578
+http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3817.m3u8
+#EXTINF:-1, TV,Teledoce [SD2]
+http://tv.nousiptv.com:8080/rommy/12345/18731
 #EXTINF:-1, TV,La Red [HD1]
 https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8
 #EXTINF:-1, TV,La Red [HD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/35428
+http://tv.nousiptv.com:8080/rommy/12345/35428
 #EXTINF:-1, TV,La Red [HD3]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/3827
+http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3824.m3u8
 #EXTINF:-1, TV,VTV [FHD1]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156460
+http://tv.nousiptv.com:8080/rommy/12345/3802
 #EXTINF:-1, TV,VTV [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/22204
+http://tv.nousiptv.com:8080/rommy/12345/22204
 #EXTINF:-1, TV,VTV [HD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3802
-#EXTINF:-1, TV,VTV [HD3]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/138272
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24023
 #EXTINF:-1, TV,VTV [SD1]
-http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54099
+http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3828.m3u8
 #EXTINF:-1, TV,VTV [SD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3598
-#EXTINF:-1, TV,VTV Plus [FHD1]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156464
+http://tv.nousiptv.com:8080/rommy/12345/3598
 #EXTINF:-1, TV,VTV Plus [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/19354
+http://tv.nousiptv.com:8080/rommy/12345/19354
 #EXTINF:-1, TV,VTV Plus [HD2]
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/52836
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/74130
 #EXTINF:-1, TV,VTV Plus [HD3]
-http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3756
+http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/169722.m3u8
 #EXTINF:-1, TV,VTV Plus [SD1]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156462
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/23860
 #EXTINF:-1, TV,Directv Sports Uruguay [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2041
+http://tv.nousiptv.com:8080/rommy/12345/2041
 #EXTINF:-1, TV,Directv Sports Uruguay [HD2]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156451
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132133
 #EXTINF:-1, TV,ESPN Uruguay [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3621
-#EXTINF:-1, TV,GOLTV Uruguay [HD1]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156457
+http://tv.nousiptv.com:8080/rommy/12345/3621
 #EXTINF:-1, TV,Maroñas [Eventual] [HD1]
 https://codere-mls-uruguay.akamaized.net/hls/live/2004038/MSL4URUGUAY/video_0/video_0.m3u8
 #EXTINF:-1, TV,Maroñas [Eventual] [SD1]
 http://wowza.montevideo.net.uy:1941/hipica/livestream/chunklist.m3u8
 #EXTINF:-1, TV,Maroñas [24/7] [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/31618
+http://tv.nousiptv.com:8080/rommy/12345/31618
 #EXTINF:-1, TV,Maroñas [24/7] [HD2]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156452
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126054
 #EXTINF:-1, TV,AUF TV [HD1]
 https://dw8hje12wnmmp.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
 #EXTINF:-1, TV,1000 X Hora TV [HD1]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156446
-#EXTINF:-1, TV,1000 X Hora TV [HD2]
-http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3768
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1582
 #EXTINF:-1, TV,A+V [HD1]
 rtmp://streaming.urutel.com:1935/amasb/vivo
 #EXTINF:-1, TV,A+V [HD2]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/51359
+http://tv.nousiptv.com:8080/rommy/12345/51359
 #EXTINF:-1, TV,Charrúa TV [HD1]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
-#EXTINF:-1, TV,Universal TV [HD1]
-https://s003.tierxhosting.com:19360/UniversalUruguay/UniversalUruguay.m3u8
+#EXTINF:-1, TV,Cardinal TV [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1596
+#EXTINF:-1, TV,Misión Vida TV [HD1]
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/playlist.m3u8
 #EXTINF:-1, TV,Canal Más [HD1]
 https://tv.tvcontrolcp.com:1936/8136/8136/playlist.m3u8
 #EXTINF:-1, TV,SJC Canal 2 [HD1]
@@ -101,23 +99,53 @@ https://stmv1.voxhdnet.com/sjccanal2/sjccanal2/playlist.m3u8
 #EXTINF:-1, TV,UCL [HD1]
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8
 #EXTINF:-1, TV,UCL [SD1]
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
-#EXTINF:-1, TV,Canal 7 Punta del Este | Maldonado [HD1]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/156449
-#EXTINF:-1, TV,Canal 7 Punta del Este | Maldonado [HD2]
-http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3773
-#EXTINF:-1, TV,Canal Once Punta del Este | Maldonado [HD1]
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1116428
-#EXTINF:-1, TV,Canal Once Punta del Este | Maldonado [HD2]
-http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/3819
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1, TV,Cámara de Senadores [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102343
+#EXTINF:-1, TV,Cámara de Representantes [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102344
+#EXTINF:-1, TV,Artigas TV Canal 3 | Artigas [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1584
+#EXTINF:-1, TV,Clic Regional TV | Artigas [HD1]
+https://video01.kshost.com.br:4443/sergio7202/sergio7202/chunklist.m3u8
+#EXTINF:-1, TV,ANPI TV San Ramón | Canelones [SD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102342
+#EXTINF:-1, TV,El Canal de la Región | Canelones [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102351
+#EXTINF:-1, TV,Canal 2 Visión Canaria | Canelones [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102352
+#EXTINF:-1, TV,Canal 11 Las Piedras | Canelones [SD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102357
+#EXTINF:-1, TV,TVL Pando | Canelones [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102355
+#EXTINF:-1, TV,Canal 12 Melo | Cerro Largo [SD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1586
+#EXTINF:-1, TV,Canal 4 Juan Lacaze | Colonia [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102356
+#EXTINF:-1, TV,Canal Ocho | Durazno [SD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102354
+#EXTINF:-1, TV,FTC HD | Florida [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1599
 #EXTINF:-1, TV,TVF | Florida [HD1]
 http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
-#EXTINF:-1, TV,Tele 8 Mercedes | Soriano [HD1]
-http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
+#EXTINF:-1, TV,Canal 2 San Carlos | Maldonado [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1588
+#EXTINF:-1, TV,Canal Once Punta del Este | Maldonado [HD1]
+http://tv.nousiptv.com:8080/rommy/12345/1116428
+#EXTINF:-1, TV,Canal Once Punta del Este | Maldonado [HD2]
+http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3819.m3u8
+#EXTINF:-1, TV,Río Uruguay TV | Río Negro [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102358
 #EXTINF:-1, TV,R Más | Rivera [HD1]
 https://srv1.zcast.com.br/andres6384/andres6384/chunklist.m3u8
-#EXTINF:-1, TV,Clic Regional TV | Artigas
-https://video01.kshost.com.br:4443/sergio7202/sergio7202/chunklist.m3u8
+#EXTINF:-1, TV,Canal 9 TeleRocha [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102346
+#EXTINF:-1, TV,Canal 4 | Salto [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1591
+#EXTINF:-1, TV,Tele 8 Mercedes | Soriano [HD1]
+http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
+#EXTINF:-1, TV,PlazaCanal 4 | Treinta y Tres [HD1]
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102349
 
 #EXTINF:-1, AM,Radio Colonia 550
 https://20823.live.streamtheworld.com/COLONIA_ADP.aac
@@ -145,23 +173,25 @@ https://radiolatina.live/9202/stream;
 https://radiolatina.live:10964/stream/1/
 #EXTINF:-1, AM,Sport 890 | Montevideo
 https://d1a7butsko8nkd.cloudfront.net/sport.mp3
-#EXTINF:-1, AM,Sport 890 +1 | Montevideo
+#EXTINF:-1, AM,Sport 890 +1 | Montevideo [Eventual]
 http://stream3.sport890.com.uy:8032/;
-#EXTINF:-1, AM,Sport 890 +2 | Montevideo
+#EXTINF:-1, AM,Sport 890 +2 | Montevideo [Eventual]
 http://stream3.sport890.com.uy:8030/;
 #EXTINF:-1, AM,Radio Frontera 900 | Artigas
 http://emisiones.com.uy:5102/amfront
 #EXTINF:-1, AM,Radio Monte Carlo 930 | Montevideo
 https://radiolatina.live:10965/;
-#EXTINF:-1, AM,Radio Yí 960 | Durazno
+#EXTINF:-1, AM,Radio Yí 960 | Durazno [1]
 http://usa15.ciudaddigital.com.uy:8144/AM960
+#EXTINF:-1, AM,Radio Yí 960 | Durazno [2]
+http://usa15.ciudaddigital.com.uy:8038/AM960
 #EXTINF:-1, AM,970 Universal | Montevideo
 http://radio.970universal.com:8010/;
 #EXTINF:-1, AM,La 1010 | Montevideo [1]
 https://radiolatina.live/9204/stream.mp3
 #EXTINF:-1, AM,La 1010 | Montevideo [2]
 https://radiolatina.live:10963/stream/1/
-#EXTINF:-1, AM,La 1010 Max | Montevideo
+#EXTINF:-1, AM,La 1010 Max | Montevideo [Eventual]
 http://198.204.234.10:8345/stream.mp3
 #EXTINF:-1, AM,Radio Libertadores 1020 | Salto
 https://emisiones.com.uy:8151/liber.mp3
@@ -183,32 +213,44 @@ https://player.gmpro.top/proxy/7034
 http://ep1.enperspectiva.net:8000/radio.mp4
 #EXTINF:-1, AM,Radiomundo 1170 | Montevideo [2]
 https://edge.mixlr.com/channel/nuuij
-#EXTINF:-1, AM,La Voz de Artigas 1180
+#EXTINF:-1, AM,La Voz de Artigas 1180 [1]
 http://usa15.ciudaddigital.com.uy:8128/LaVozDeArtigas
+#EXTINF:-1, AM,La Voz de Artigas 1180 [2]
+http://usa15.ciudaddigital.com.uy:8044/LaVozDeArtigas
 #EXTINF:-1, AM,La Nueva Radio 1200 | Florida
 https://streaming1.hostingmontevideo.com:7017/;stream.mp3
-#EXTINF:-1, AM,Radio Río Branco 1210 | Cerro Largo
-https://medios.ciudaddigital.com.uy:18164/RioBranco
-#EXTINF:-1, AM,Radio El Libertador 1210 | Treinta y Tres
+#EXTINF:-1, AM,Radio El Libertador 1210 | Treinta y Tres [1]
 https://streamingraddios.online/proxy/llamadad?mp=/stream
+#EXTINF:-1, AM,Radio El Libertador 1210 | Treinta y Tres [2]
+http://s4.viastreaming.net:7200/;
 #EXTINF:-1, AM,Difusora Soriano 1210
 http://usa15.ciudaddigital.com.uy:8094/DifusoraSoriano
-#EXTINF:-1, AM,Radio RBC Piriápolis 1210 | Maldonado
+#EXTINF:-1, AM,Radio RBC Piriápolis 1210 | Maldonado [1]
 http://usa15.ciudaddigital.com.uy:8058/RbcAM
-#EXTINF:-1, AM,Radio Reconquista 1220 | Rivera
+#EXTINF:-1, AM,Radio RBC Piriápolis 1210 | Maldonado [2]
+http://usa15.ciudaddigital.com.uy:8146/RbcAM
+#EXTINF:-1, AM,Radio Reconquista 1220 | Rivera [1]
 http://usa15.ciudaddigital.com.uy:8088/Reconquista
+#EXTINF:-1, AM,Radio Reconquista 1220 | Rivera [2]
+http://usa15.ciudaddigital.com.uy:8090/Reconquista
 #EXTINF:-1, AM,Radio Paysandú 1240
 https://streamingv2.shoutcast.com/radio-paysandu-cw35
 #EXTINF:-1, AM,Radio Centenario 1250 | Montevideo
 http://rfm.radio.netgate.com.uy:8000/centenario
-#EXTINF:-1, AM,Radio Bella Unión 1250 | Artigas
+#EXTINF:-1, AM,Radio Bella Unión 1250 | Artigas [1]
 http://usa8.ciudaddigital.com.uy:9100/bellaunion
-#EXTINF:-1, AM,Difusora Rochense 1260 | Rocha
+#EXTINF:-1, AM,Radio Bella Unión 1250 | Artigas [2]
+http://usa15.ciudaddigital.com.uy:8044/BellaUnion
+#EXTINF:-1, AM,Difusora Rochense 1260 [1]
 http://server375.dinamichosting.com:8020/Title1
+#EXTINF:-1, AM,Difusora Rochense 1260 [2]
+http://radio.970universal.com:8020/stream
 #EXTINF:-1, AM,Radio Cuareim 1270 | Artigas
 http://usa15.ciudaddigital.com.uy:29028/Cuareim
-#EXTINF:-1, AM,Radio Tacuarembó 1280
+#EXTINF:-1, AM,Radio Tacuarembó 1280 [1]
 http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM
+#EXTINF:-1, AM,Radio Tacuarembó 1280 [2]
+http://usa15.ciudaddigital.com.uy:8132/TacuaremboAM
 #EXTINF:-1, AM,Radio Cultura 1290 | Montevideo
 https://radios.iwstreaming.uy/8034/stream
 #EXTINF:-1, AM,Radio Fortaleza 1320 | Rocha
@@ -217,8 +259,16 @@ https://server-usa2.radioseninternet.net/9304/stream
 https://streamingv2.shoutcast.com/radio-cw39
 #EXTINF:-1, AM,Radio Fénix 1330 | Montevideo
 https://sp3.servidorrprivado.com/8070/;
-#EXTINF:-1, AM,Radio 41 1360 | San José
+#EXTINF:-1, AM,La Voz de Melo 1340 | Cerro Largo
+http://gnstreammedia.com:8170/stream
+#EXTINF:-1, AM,Radio 41 1360 | San José [1]
 https://stream20.usastreams.com:7008/;
+#EXTINF:-1, AM,Radio 41 1360 | San José [2]
+http://radios-online.info:2990/;
+#EXTINF:-1, AM,Radio Río Branco 1360 | Cerro Largo [1]
+https://medios.ciudaddigital.com.uy:18164/RioBranco
+#EXTINF:-1, AM,Radio Río Branco 1360 | Cerro Largo [2]
+http://usa15.ciudaddigital.com.uy:8164/RioBranco
 #EXTINF:-1, AM,Nueva Radio San Javier 1370 | Río Negro
 https://one.cloudstreaming.eu:8514/stream.aac
 #EXTINF:-1, AM,Radio Real 1370 | Rivera
@@ -228,8 +278,12 @@ https://server-usa2.radioseninternet.net/8132/stream
 #EXTINF:-1, AM,Radio Zorrilla 1400 | Tacuarembó
 https://server-usa2.radioseninternet.net/9312/stream
 #EXTINF:-1, AM,Radio La R 1410 | Montevideo [1]
+#EXTVLCOPT:http-referrer=https://lacatorce10.com.uy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://radio.lacatorce10.com.uy:8060/;
 #EXTINF:-1, AM,Radio La R 1410 | Montevideo [2]
+#EXTVLCOPT:http-referrer=https://lacatorce10.com.uy/radio-player/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://radio.lacatorce10.com.uy:8062/;
 #EXTINF:-1, AM,Radio 1410 | Salto
 http://emisiones.com.uy:8086/turistic
@@ -237,8 +291,10 @@ http://emisiones.com.uy:8086/turistic
 https://server-usa2.radioseninternet.net/8320/stream
 #EXTINF:-1, AM,Radio Felicidad 1420 | Paysandú
 https://streamingv2.shoutcast.com/felicidad
-#EXTINF:-1, AM,Radio Durazno 1430
+#EXTINF:-1, AM,Radio Durazno 1430 [1]
 http://usa15.ciudaddigital.com.uy:8038/DuraznoAM
+#EXTINF:-1, AM,Radio Durazno 1430 [2]
+http://usa15.ciudaddigital.com.uy:8144/DuraznoAM
 #EXTINF:-1, AM,Radio Rivera 1440
 http://usa15.ciudaddigital.com.uy:8060/RiveraAM
 #EXTINF:-1, AM,Radio América 1450 | Montevideo
@@ -261,14 +317,16 @@ https://server.laradio.online/proxy/martin_barragan02?mp=/stream
 http://149.56.195.94:8145/stream?type=http
 #EXTINF:-1, AM,Radio San Carlos 1510 | Maldonado
 http://198.49.65.43:10396/;
+#EXTINF:-1, AM,Radio Ibirapitá 1510 | Tacuarembó
+https://server-usa2.radioseninternet.net/9306/stream
 #EXTINF:-1, AM,Paz La Nueva Radio 1520 | Paysandú
 https://node-31.zeno.fm/ae3h04ee21zuv
 #EXTINF:-1, AM,Acuarela 1520 | Cerro Largo
 http://204.197.245.100:8280/;
-#EXTINF:-1, AM,La Voz de Melo 1540 | Cerro Largo
-http://gnstreammedia.com:8170/stream
-#EXTINF:-1, AM,Radio Patria 1540 | Treinta y Tres
+#EXTINF:-1, AM,Radio Patria 1540 | Treinta y Tres [1]
 http://usa15.ciudaddigital.com.uy:8052/PatriaAM
+#EXTINF:-1, AM,Radio Patria 1540 | Treinta y Tres [2]
+http://usa15.ciudaddigital.com.uy:8160/PatriaAM
 #EXTINF:-1, AM,Radio Charrúa 1540 | Paysandú
 http://am1540.dyndns.org:8000/enlace
 #EXTINF:-1, AM,Radio Agraciada 1550 | Soriano
@@ -281,21 +339,25 @@ http://emisiones.com.uy:8102/difu
 http://204.197.245.100:9146/;
 #EXTINF:-1, AM,Radio Canelones 1570
 http://204.197.245.100:8276/;
-#EXTINF:-1, AM,Emisora del Este 1580 | Lavalleja
+#EXTINF:-1, AM,Radio Celeste 1570 | Artigas
+http://emisiones.com.uy:8115/celes
+#EXTINF:-1, AM,Emisora del Este 1580 | Lavalleja [1]
 http://usa15.ciudaddigital.com.uy:8040/EmisoraDelEste
+#EXTINF:-1, AM,Emisora del Este 1580 | Lavalleja [2]
+http://usa15.ciudaddigital.com.uy:8076/EmisoraDelEste
 #EXTINF:-1, AM,Radio San Salvador 1580 | Soriano
 https://server-usa2.radioseninternet.net/8270/stream
 #EXTINF:-1, AM,Nueva Radio Lascano 1590 | Rocha
 http://usa15.ciudaddigital.com.uy:8050/NuevaRadio
 #EXTINF:-1, AM,Radio Continente 1600 | Canelones
 https://server-usa2.radioseninternet.net/9316/stream
-#EXTINF:-1, AM,Radio Litoral 1600 | Río Negro
+#EXTINF:-1, AM,Radio Litoral 1600 | Río Negro [1]
 http://medios.ciudaddigital.com.uy:8096/LitoralFM
+#EXTINF:-1, AM,Radio Litoral 1600 | Río Negro [2]
+http://usa15.ciudaddigital.com.uy:8094/LitoralFM
 #EXTINF:-1, AM,Radio Litoral Digital | Río Negro
 http://node-25.zeno.fm/akq90e99uv8uv?rj-ttl=5
 
-#EXTINF:-1, FM,Kairos 87.7 | Montevideo
-https://panel.streamenviron.com:8264/radiokairos
 #EXTINF:-1, FM,Ritmo 88.1 | Cerro Largo
 https://server.laradio.online/proxy/guillermo_castro?mp=/stream
 #EXTINF:-1, FM,Naturaleza 88.1 | Canelones
@@ -310,8 +372,6 @@ http://emisiones.com.uy:5103/fmfront
 http://emisiones.com.uy:8116/lago
 #EXTINF:-1, FM,Columbia 88.5 | Rivera
 http://stm.gmpro.top:7008/;
-#EXTINF:-1, FM,Radio Hit 88.5 | Treinta y Tres
-https://ssl.globalmedios.net:7088/stream
 #EXTINF:-1, FM,Libertad 88.5 | San José
 http://emisoralibertad.ddns.net:9830/;
 #EXTINF:-1, FM,Claridad 88.7 | Florida
@@ -322,8 +382,6 @@ https://server-usa2.radioseninternet.net/9302/stream
 https://server-usa2.radioseninternet.net/8260/stream
 #EXTINF:-1, FM,Nativa 88.9 | San José
 http://emisiones.com.uy:8109/nati
-#EXTINF:-1, FM,Radio Marindia 88.9 | Canelones
-https://radios.iwstreaming.uy/8004/stream
 #EXTINF:-1, FM,Alas 88.9 | Rocha
 https://player.audiovox.pw/proxy/7094
 #EXTINF:-1, FM,Imagen 89.1 | Río Negro
@@ -332,16 +390,16 @@ https://servermm.com/radio/imagenfm
 http://liderfm-zikoxweb2.radioca.st:8023/stream
 #EXTINF:-1, FM,Del Molino 89.3 | Canelones
 https://sp2.servidorrprivado.com:10878/;
-#EXTINF:-1, FM,Radio Océanica 89.3 | Rocha
+#EXTINF:-1, FM,Radio Oceánica 89.3 | Rocha
 http://oceanica.duckdns.org:8000/oceanica.mp3
 #EXTINF:-1, FM,Horizonte 89.3 | Rivera
 http://medios.ciudaddigital.com.uy:8078/HorizonteFM
-#EXTINF:-1, FM,Emisora Del Hum 89.3 | Soriano
+#EXTINF:-1, FM,Emisora Del Hum 89.3 | Soriano [1]
 http://usa15.ciudaddigital.com.uy:8102/DelHumFM
+#EXTINF:-1, FM,Emisora Del Hum 89.3 | Soriano [2]
+http://usa15.ciudaddigital.com.uy:8094/DelHumFM
 #EXTINF:-1, FM,Florida 89.3
 http://s2.mexside.net:8060/;
-#EXTINF:-1, FM,Diversidad 89.3 | Durazno
-http://diversidadfm.dyndns-server.com:8000/audio.mp3
 #EXTINF:-1, FM,Viva 89.5 | Artigas
 http://emisiones.uy:9002/viva
 #EXTINF:-1, FM,Sirio 89.5 | Cerro Largo
@@ -360,53 +418,63 @@ https://streamrosariofm.digital:8004/stream
 https://radios.iwstreaming.uy/8010/stream
 #EXTINF:-1, FM,Hits 89.9 | Tacuarembó
 https://streaming.radiosenlinea.com.ar/8868/stream
-#EXTINF:-1, FM,Ideal 90.1 | Canelones
+#EXTINF:-1, FM,Ideal 90.1 | Canelones [1]
 https://streaming3.locucionar.com/proxy/fmideal901?mp=/stream
+#EXTINF:-1, FM,Ideal 90.1 | Canelones [2]
+http://162.254.144.196:19414/stream
+#EXTINF:-1, FM,La Noventa 90.1 | Durazno
+http://usa15.ciudaddigital.com.uy:8038/LaNoventaFM
 #EXTINF:-1, FM,Hit 90.3 | Montevideo
 https://hit2.net.com.uy:8022/stream
 #EXTINF:-1, FM,Color 90.3 | Soriano
 https://server-usa2.radioseninternet.net/8018/stream
-#EXTINF:-1, FM,Osiris 90.5 | Durazno
-http://server.datalivehd.com:7064/osirisfmlive?type=http
-#EXTINF:-1, FM,Acacia 90.7 | Rivera
+#EXTINF:-1, FM,Emisora Del Valle 90.7 | Rivera [1]
+https://radios.solumedia.com:10932/stream?icy=http
+#EXTINF:-1, FM,Emisora Del Valle 90.7 | Rivera [2]
 http://usa15.ciudaddigital.com.uy:8088/AcaciaFM
 #EXTINF:-1, FM,Radio Reflejos 90.7 | Colonia
 https://server.laradio.online/proxy/martin_barragan01?mp=/stream;
 #EXTINF:-1, FM,Nosotros 90.7 | Lavalleja
 http://usa15.ciudaddigital.com.uy:8082/NosotrosFM
-#EXTINF:-1, FM,Solari 90.7 | Rocha
+#EXTINF:-1, FM,Solari 90.7 | Rocha [1]
 http://medios.ciudaddigital.com.uy:8150/SolariFM
-#EXTINF:-1, FM,Amatista 90.7 | Artigas
+#EXTINF:-1, FM,Solari 90.7 | Rocha [2]
+http://usa15.ciudaddigital.com.uy:8148/SolariFM
+#EXTINF:-1, FM,Amatista 90.7 | Artigas [1]
 http://usa15.ciudaddigital.com.uy:8116/AmatistaFM
-#EXTINF:-1, FM,Celestial 90.7 | Montevideo
-https://cloudstream2036.conectarhosting.com/8032/stream
+#EXTINF:-1, FM,Amatista 90.7 | Artigas [2]
+http://usa15.ciudaddigital.com.uy:8044/AmatistaFM
 #EXTINF:-1, FM,La Noventa 90.9 | Florida
 http://emisiones.com.uy:8129/nove
-#EXTINF:-1, FM,Perfil 90.9 | Treinta y Tres
+#EXTINF:-1, FM,Perfil 90.9 | Treinta y Tres [1]
 http://radiosar.com:8086/stream
+#EXTINF:-1, FM,Perfil 90.9 | Treinta y Tres [2]
+https://radiosar.com:7088/stream
 #EXTINF:-1, FM,Claridad 90.9 | Colonia
 https://uy-southwest-1a.padenmedia.com:8000/radio.mp3
 #EXTINF:-1, FM,Río 90.9 | Nueva Palmira, Colonia
 http://192.99.16.17:6521/;
 #EXTINF:-1, FM,Radio Futura 91.1 | Montevideo
+#EXTVLCOPT:http-referrer=http://www.rf.com.uy/envivo/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://cdn.mediatiquestream.com/radiosuy/futura.stream/chunks.m3u8
 #EXTINF:-1, FM,San Ramón 91.3 | Canelones
 https://sanramon-zikoxweb.radioca.st/stream
-#EXTINF:-1, FM,Radio Lugares 91.3 | Colonia
-http://200.58.101.247:8232/;
 #EXTINF:-1, FM,Señal Zoe 91.5 | Montevideo
 https://embed.unored.tv/stream/index.php?s=unoredradio.com&p=9664&m=
-#EXTINF:-1, FM,Brava 91.5 | Maldonado
+#EXTINF:-1, FM,Brava 91.5 | Maldonado [1]
 http://radio.fmbrava.com:8210/;
+#EXTINF:-1, FM,Brava 91.5 | Maldonado [2]
+http://radio.970universal.com:8210/;
 #EXTINF:-1, FM,Espacio 91.5 | Soriano
 http://radiolatina.live:7926/stream
-#EXTINF:-1, FM,Universo Montes 91.7 | Canelones
-https://radios.iwstreaming.uy/8024/stream
 #EXTINF:-1, FM,Impacto 91.7 | San José
 https://node-09.zeno.fm/auct37d03yzuv
 #EXTINF:-1, FM,Cadena Del Sol 91.7 | Rocha
 http://audiohd.sonidosenlared.com:5179/stream
 #EXTINF:-1, FM,Like 91.9 | Montevideo
+#EXTVLCOPT:http-referrer=https://www.fmlike.com.uy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://cdn.mediatiquestream.com/radiosuy/0d392c5973b1891ebe2e1725826c97e8.sdp/chunks.m3u8
 #EXTINF:-1, FM,Toros 91.9 | Tacuarembó
 https://streaming2.hostingmontevideo.com/8034/stream;
@@ -416,34 +484,42 @@ http://198.100.145.187:17700/3399;
 http://emisiones.com.uy:8092/mile
 #EXTINF:-1, FM,Libertador 92.3 | Florida
 https://radio.hostlagarto.com/9780/stream
-#EXTINF:-1, FM,Latina 92.5 | Montevideo
+#EXTINF:-1, FM,Oro 92.3 | Canelones
+https://radiopro.com.uy/radio/8010/ciudadana
+#EXTINF:-1, FM,Latina 92.5 | Montevideo [1]
 https://node-13.zeno.fm/39tyc5bday8uv?rj-ttl=5
-#EXTINF:-1, FM,Armonía 92.5 | Tacuarembó
+#EXTINF:-1, FM,Latina 92.5 | Montevideo [2]
+https://fmlatina02.net.com.uy:8020/stream
+#EXTINF:-1, FM,Armonía 92.5 | Tacuarembó [1]
 http://usa15.ciudaddigital.com.uy:8132/ArmoniaFM
+#EXTINF:-1, FM,Armonía 92.5 | Tacuarembó [2]
+http://usa15.ciudaddigital.com.uy:8114/ArmoniaFM
 #EXTINF:-1, FM,Inolvidable 93.1 | Canelones
 https://streaming3.locucionar.com/proxy/inolvidablefm?mp=/stream
 #EXTINF:-1, FM,Luna 93.3 | Río Negro
 https://servermm.com/radio/lunafm
 #EXTINF:-1, FM,Por Siempre 93.3 | Lavalleja
-https://shaincast.caster.fm:37874/listen.mp3?authnb053bde7fd08d273c84718295d2380ed
+#EXTVLCOPT:http-referrer=https://porsiempre933.caster.fm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+http://shaincast.caster.fm:37874/listen.mp3?
 #EXTINF:-1, FM,Mágica 93.5 | Colonia
 https://24963.live.streamtheworld.com/MAGICA.mp3
-#EXTINF:-1, FM,Azul Punta del Este 93.5 | Maldonado
+#EXTINF:-1, FM,Azul Punta del Este 93.5 | Maldonado [1]
 http://icecasthd.net:8293/live
+#EXTINF:-1, FM,Azul Punta del Este 93.5 | Maldonado [2]
+http://centova1.consultoradas.com:8293/stream
 #EXTINF:-1, FM,Océano 93.9 | Montevideo
 http://radio1.oceanofm.com:8010/listen.pls&type=mp3
 #EXTINF:-1, FM,Navegante 94.1 | Rocha
 https://ssl.hostingservicios.com:7768/;
 #EXTINF:-1, FM,Treinta y Tres 94.3
 https://server-usa2.radioseninternet.net/8138/stream
-#EXTINF:-1, FM,La Cotorra 94.3 | Montevideo
-http://204.197.245.100:8238/;
 #EXTINF:-1, FM,Internacional 94.5 | Rivera
 http://streaming2.locucionar.com:8917/stream
 #EXTINF:-1, FM,Cordialidad 94.9 | Paysandú
 https://cordialidad-zikoxweb.radioca.st/stream
 #EXTINF:-1, FM,Acuario 94.9 | Rocha
-https://servidor19-3.brlogic.com:7260/live
+https://server-usa2.radioseninternet.net/8036/stream
 #EXTINF:-1, FM,Crónicas 94.9 | Soriano
 http://949.dyndns.org:8081/online
 #EXTINF:-1, FM,Radio City 95.1 | Durazno
@@ -476,22 +552,30 @@ https://streaming2.hostingmontevideo.com/8036/stream
 https://radios.iwstreaming.uy/8030/stream
 #EXTINF:-1, FM,Primavera 97.1 | Soriano
 http://s2.netradiofm.com:8030/;
-#EXTINF:-1, FM,Ciudad del Colla 97.3 | Colonia
-http://108.59.9.147:8404/;stream.nsv
-#EXTINF:-1, FM,Conquistador 97.3 | Treinta y Tres
+#EXTINF:-1, FM,Conquistador 97.3 | Treinta y Tres [1]
 http://198.204.234.10:8149/1267;
-#EXTINF:-1, FM,Maragata 97.5 | San José
+#EXTINF:-1, FM,Conquistador 97.3 | Treinta y Tres [2]
+http://icecasthd.net:8149/;
+#EXTINF:-1, FM,Maragata 97.5 | San José [1]
 http://emisiones.com.uy:8114/mara
+#EXTINF:-1, FM,Maragata 97.5 | San José [2]
+http://streaming2.locucionar.com:10394/;
 #EXTINF:-1, FM,Máxima 97.7 | Paysandú
 https://streamingv2.shoutcast.com/maxima-fm-uy-pdu
 #EXTINF:-1, FM,M24 97.9 | Montevideo
 https://streaming2.hostingmontevideo.com:7003/;
-#EXTINF:-1, FM,Adeom 98.1 | Florida
-http://s4.mexside.net:2142/;#.mp3
-#EXTINF:-1, FM,Cadena Digital 98.3 | Rocha
+#EXTINF:-1, FM,Portal 98.1 | Artigas
+https://stream.zeno.fm/f34dng9tav8uv
+#EXTINF:-1, FM,Cadena Digital 98.3 | Rocha [1]
 http://medios.ciudaddigital.com.uy:8148/CadenaDigital
-#EXTINF:-1, FM,Nova 98.3 | Cerro Largo
+#EXTINF:-1, FM,Cadena Digital 98.3 | Rocha [2]
+http://medios.ciudaddigital.com.uy:8150/CadenaDigital
+#EXTINF:-1, FM,Nova 98.3 | Cerro Largo [1]
 https://server.laradio.online:58338/live
+#EXTINF:-1, FM,Nova 98.3 | Cerro Largo [2]
+#EXTVLCOPT:http-referrer=https://nova983.caster.fm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+http://shaincast.caster.fm:17863/listen.mp3?
 #EXTINF:-1, FM,Diamante 98.7 | Montevideo [1]
 http://qwcast.com:9870/diamante
 #EXTINF:-1, FM,Diamante 98.7 | Montevideo [2]
@@ -500,22 +584,30 @@ http://radiolatina.live:8058/stream/1/
 https://radiopro.com.uy/radio/8000/bohemia
 #EXTINF:-1, FM,Impacto 98.9 | Río Negro
 http://emisiones.com.uy:5106/impa
-#EXTINF:-1, FM,Ciudad de Melo 99.1 | Cerro Largo
+#EXTINF:-1, FM,Ciudad de Melo 99.1 | Cerro Largo [1]
 http://51.38.74.200:8048/stream
+#EXTINF:-1, FM,Ciudad de Melo 99.1 | Cerro Largo [2]
+http://gnstreammedia.com:8802/;
 #EXTINF:-1, FM,El Lugar 99.1 | San José
 https://medios.ciudaddigital.com.uy:18140/ElLugarFM
-#EXTINF:-1, FM,Federal 99.1 | Lavalleja
+#EXTINF:-1, FM,Federal 99.1 | Lavalleja [1]
 http://usa15.ciudaddigital.com.uy:8040/FederalFM
+#EXTINF:-1, FM,Federal 99.1 | Lavalleja [2]
+http://usa15.ciudaddigital.com.uy:8076/FederalFM
 #EXTINF:-1, FM,DelSol 99.5 | Montevideo [1]
 http://radio.dl.uy:9950/radio
 #EXTINF:-1, FM,DelSol 99.5 | Montevideo [2]
 https://radio1.dl.uy:9952/
 #EXTINF:-1, FM,Éxito 99.7 | Paysandú
 https://streamingv2.shoutcast.com/exito
-#EXTINF:-1, FM,La 100 Uruguay 99.9 | Rocha
-http://medios.ciudaddigital.com.uy:8148/999FM
-#EXTINF:-1, FM,Digital 100.1 | Lavalleja
+#EXTINF:-1, FM,La 100 Uruguay 99.9 | Rocha [1]
+http://usa15.ciudaddigital.com.uy:8150/999FM
+#EXTINF:-1, FM,La 100 Uruguay 99.9 | Rocha [2]
+http://usa15.ciudaddigital.com.uy:8148/999FM
+#EXTINF:-1, FM,Digital 100.1 | Lavalleja [1]
 https://sh1.radioonlinehd.com:8001/stream
+#EXTINF:-1, FM,Digital 100.1 | Lavalleja [2]
+http://usa15.ciudaddigital.com.uy:8136/DigitalFM
 #EXTINF:-1, FM,Santa Isabel 100.1 | Tacuarembó
 http://emisiones.com.uy:8101/san
 #EXTINF:-1, FM,Aire 100.3 | Montevideo
@@ -524,8 +616,10 @@ https://airefm.net.com.uy:8030/;
 http://emisiones.com.uy:8105/sb
 #EXTINF:-1, FM,Impacto 100.3 | Colonia
 http://streaming2.hostingmontevideo.com:8012//;stream.mp3
-#EXTINF:-1, FM,La Cien 100.5 | Flores
+#EXTINF:-1, FM,La Cien 100.5 | Flores [1]
 http://streaming5.locucionar.com:21758/stream
+#EXTINF:-1, FM,La Cien 100.5 | Flores [2]
+http://emisiones.com.uy:8143/cien
 #EXTINF:-1, FM,Radio Uno 100.7 | Canelones
 https://radio.hostlagarto.com/9822/stream
 #EXTINF:-1, FM,Nuevo Tiempo 101.3 | Montevideo
@@ -546,10 +640,6 @@ https://www.radioking.com/play/azul2
 https://stream.radio.co/s54eadbc6b/listen
 #EXTINF:-1, FM,Radio Sacramento 101.9 | Colonia
 https://server.laradio.online/proxy/martin_barragan03?mp=/stream;
-#EXTINF:-1, FM,Radio Cien 102.1 | Florida
-https://streaming2.hostingmontevideo.com/8016/stream;
-#EXTINF:-1, FM,Hiperactiva 102.1 | Rivera
-https://srv2.radiostreamuy.com:8050/stream
 #EXTINF:-1, FM,La Paloma 102.1 | Rocha
 https://proxy.turadioinfo.com/6112/;
 #EXTINF:-1, FM,Coronilla 102.3 | Rocha
@@ -564,40 +654,36 @@ http://158.106.131.228:9020/;
 https://radiopro.com.uy/radio/8060/estena
 #EXTINF:-1, FM,América 103.3 | Salto
 http://emisiones.com.uy:8118/america
-#EXTINF:-1, FM,El Puente 103.3 | Montevideo
-http://radios-online.info:4130/;
 #EXTINF:-1, FM,Aspen Punta 103.5 | Maldonado
 https://streaming2.hostingmontevideo.com:7010/;
 #EXTINF:-1, FM,Radio Disney 103.7 | Montevideo
 http://18733.live.streamtheworld.com/DISNEY_URY_MV.mp3
 #EXTINF:-1, FM,Universo 103.7 | Artigas
 https://streaming2.locucionar.com/proxy/fmuniverso?mp=/stream
-#EXTINF:-1, FM,Pueblo 104.1 | Durazno
-https://radiolinksmedia.net.ar/8811/;
 #EXTINF:-1, FM,Radiocero 104.3 | Montevideo [1]
 http://radiolatina.live:7902/stream/1/
 #EXTINF:-1, FM,Radiocero 104.3 | Montevideo [2]
 https://radiolatina.live:10966/stream
-#EXTINF:-1, FM,Voces 104.5 | Maldonado
-https://streamingraddios.online/proxy/vhcastro?mp=/stream/;stream/1
 #EXTINF:-1, FM,Vida 104.7 | Rocha
 http://usa15.ciudaddigital.com.uy:8048/VidaFM
 #EXTINF:-1, FM,Metrópolis 104.9 | Montevideo
 https://metropolis2.net.com.uy:8020/stream
-#EXTINF:-1, FM,Del Carmen 105.3 | Montevideo
-http://radios-online.info:2930/;
-#EXTINF:-1, FM,La Galena 105.5 | Cerro Largo
+#EXTINF:-1, FM,La Galena 105.5 | Cerro Largo [1]
 http://gnstreammedia.com:8804/;
+#EXTINF:-1, FM,La Galena 105.5 | Cerro Largo [2]
+http://gnstreammedia.com:8148/stream
 #EXTINF:-1, FM,Piedra Alta 105.5 | Florida
 https://radio.hostlagarto.com/9952/stream/;
-#EXTINF:-1, FM,Norte 105.5 | Artigas
+#EXTINF:-1, FM,Norte 105.5 | Artigas [1]
 http://usa15.ciudaddigital.com.uy:8044/NorteFM
+#EXTINF:-1, FM,Norte 105.5 | Artigas [2]
+http://usa15.ciudaddigital.com.uy:8128/NorteFM
 #EXTINF:-1, FM,Galaxia 105.9 | Montevideo
 https://node-33.zeno.fm/bf4gt1pem0quv
-#EXTINF:-1, FM,Ozono 105.9 | Salto
-https://emisiones.com.uy:8151/ozono
-#EXTINF:-1, FM,Onda Marina 106.3 | Rocha
+#EXTINF:-1, FM,Onda Marina 106.3 | Rocha [1]
 http://server375.dinamichosting.com:8030/;
+#EXTINF:-1, FM,Onda Marina 106.3 | Rocha [2]
+http://radio.970universal.com:8030/
 #EXTINF:-1, FM,Boreal 106.5 | Durazno
 https://ssl.radiosnethosting.com/index.php?port=9758/;stream.mp3
 #EXTINF:-1, FM,Cadena Del Mar 106.5 | Maldonado
@@ -623,6 +709,193 @@ http://emisiones.com.uy:8088/mundo
 #EXTINF:-1, FM,Principal 107.9 | San José
 https://s7.myradiostream.com/:10764/listen.mp3
 
+#EXTINF:-1, FMC,Kairos 87.7 | Montevideo
+https://panel.streamenviron.com:8264/radiokairos
+#EXTINF:-1, FMC,Ciudad de la Costa 87.7 | Pando, Canelones
+#EXTVLCOPT:http-referrer=https://player.srvif.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://ssl.globalmedios.net:7006/stream
+#EXTINF:-1, FMC,Amigos de la Udelar 88.1 | Maldonado
+https://s1.radioforge.com:9156/stream
+#EXTINF:-1, FMC,Radio Hit 88.5 | Treinta y Tres
+https://ssl.globalmedios.net:7088/stream
+#EXTINF:-1, FMC,Sueños 88.7 | Canelones
+https://stream.zeno.fm/z9tn656mp7zuv.aac
+#EXTINF:-1, FMC,Ciudadela 88.7 | Montevideo
+https://streaming1.locucionar.com/proxy/fmciudadela887?mp=/stream
+#EXTINF:-1, FMC,Enkantada 88.7 | Maldonado
+https://stream.zeno.fm/zw4m8p08yf9uv
+#EXTINF:-1, FMC,Señales Marindia 88.9 | Canelones
+https://radios.iwstreaming.uy/8004/stream
+#EXTINF:-1, FMC,Radio Molles 88.9 | Durazno
+https://server6.hostradios.com/8478/;
+#EXTINF:-1, FMC,Cauces 89.1 | Canelones
+http://mpc.mediacp.eu:8236/;
+#EXTINF:-1, FMC,Palmira 89.1 | Colonia
+http://198.245.50.150:10422/;
+#EXTINF:-1, FMC,Caraguatá La Voz 89.1 | Tacuarembó
+http://icecasthd.net:3196/live
+#EXTINF:-1, FMC,Flecha 89.1 | Lavalleja
+#EXTVLCOPT:http-referrer=https://flecha.caster.fm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://shaincast.caster.fm:39193/listen.mp3
+#EXTINF:-1, FMC,Diversidad 89.3 | Durazno
+#EXTVLCOPT:http-referrer=https://diversidadfm.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+http://diversidadfm.dyndns-server.com:8000/audio.mp3
+#EXTINF:-1, FMC,Radio Parque UTC 89.7 | Montevideo
+https://ssl.gmpro.top:7052/;
+#EXTINF:-1, FMC,La Bruja 89.9 | Cerro Largo
+https://gnstreammedia.com:8338/stream
+#EXTINF:-1, FMC,Uruguay 89.9 | Montevideo
+http://899.homeip.net:8000/;
+#EXTINF:-1, FMC,Aceguá 90.3 | Cerro Largo
+https://ssl.aceguafm.com/aceguafm
+#EXTINF:-1, FMC,Tacuarembó 90.3
+https://tacuarembo-zikoxweb.radioca.st/stream
+#EXTINF:-1, FMC,Radioactiva 90.3 | Artigas
+https://stream.zeno.fm/w1ygkruc5v8uv
+#EXTINF:-1, FMC,Alternativa 90.3 | Río Negro
+#EXTVLCOPT:http-referrer=https://fmalternativa.caster.fm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+http://shaincast.caster.fm:12963/listen.mp3
+#EXTINF:-1, FMC,Osiris 90.5 | Durazno
+http://server.datalivehd.com:7064/osirisfmlive?type=http
+#EXTINF:-1, FMC,La Caverna 90.7 | Salinas, Canelones
+http://158.106.131.228:8288/;
+#EXTINF:-1, FMC,Radioventura 90.7 | Pando, Canelones
+http://158.106.131.228:8232/;
+#EXTINF:-1, FMC,Espika 90.7 | Santa Lucía, Canelones
+http://stream.codigosur.org:8000/espikafm.mp3
+#EXTINF:-1, FMC,Celestial 90.7 | Montevideo
+https://cloudstream2036.conectarhosting.com/8032/stream
+#EXTINF:-1, FMC,Impactos 90.9 | Salto
+http://emisiones.com.uy:8113/impacto
+#EXTINF:-1, FMC,Ciudad 90.9 | San José
+http://radios.multimediasuy.com:8150/radio.mp3
+#EXTINF:-1, FMC,Tambores 91.1 | Tacuarembó
+http://50.7.8.138:5100/tambo
+#EXTINF:-1, FMC,HorizonteMax 91.3 | Artigas
+https://node-35.zeno.fm/y1uamp1gh5zuv?rj-ttl=5
+#EXTINF:-1, FMC,Universo Montes 91.7 | Canelones
+https://radios.iwstreaming.uy/8024/stream
+#EXTINF:-1, FMC,Victoria 91.7 | Colonia
+http://autodj.nvradios.com:8290/;
+#EXTINF:-1, FMC,Mega 91.9 | Treinta y Tres
+http://67.212.166.178:7154/;
+#EXTINF:-1, FMC,Del Cerro 91.9 | Rivera
+https://radio.saopaulo01.com.br/9020/stream;
+#EXTINF:-1, FMC,Aries 92.1 | Artigas
+https://stream.zeno.fm/0s1xdm0dnzzuv
+#EXTINF:-1, FMC,Radio Parque 92.1 | Rocha
+http://streaming2.hostingmontevideo.com:8018/;
+#EXTINF:-1, FMC,Notable 92.7 | Río Negro
+http://emisiones.com.uy:8128/cadena
+#EXTINF:-1, FMC,Aguas Dulces 92.9 | Rocha
+https://stream.zeno.fm/zbqrm2qunv8u
+#EXTINF:-1, FMC,Ruta 93.5 | San José
+http://204.197.245.100:8260/;
+#EXTINF:-1, FMC,El Shaddai 93.5 | Montevideo
+https://stream.zeno.fm/1kdax2pa938uv/;
+#EXTINF:-1, FMC,La Elegida 93.7 | Cerro Largo
+http://stm1.globalmedios.net:7042/1
+#EXTINF:-1, FMC,Casupá 94.1 | Florida
+http://stm1.ifantasy.com.br:7256/;;
+#EXTINF:-1, FMC,La Cotorra 94.3 | Cerro, Montevideo
+http://204.197.245.100:8238/;
+#EXTINF:-1, FMC,San Lorenzo 94.3 | Cerrito, Montevideo
+https://stream.zeno.fm/8mp4hzg20bruv
+#EXTINF:-1, FMC,El Camino 94.3 | Flores
+http://emisiones.com.uy:8090/asam
+#EXTINF:-1, FMC,Libertad 94.7 | Colonia
+http://204.197.245.100:9162/;
+#EXTINF:-1, FMC,Terminal 95.9 | Artigas
+https://server-usa2.radioseninternet.net/8048/stream
+#EXTINF:-1, FMC,Ecos de la Costa 96.1 | Cerro Largo
+http://streaming01.shockmedia.com.ar:9872/stream
+#EXTINF:-1, FMC,Radiocien 96.7 | Florida [1]
+https://streaming2.hostingmontevideo.com/8016/stream;
+#EXTINF:-1, FMC,Radiocien 96.7 | Florida [2]
+https://streaming2.hostingmontevideo.com:7007/;
+#EXTINF:-1, FMC,Ciudad del Colla 97.3 | Colonia
+http://108.59.9.147:8404/;stream.nsv
+#EXTINF:-1, FMC,Adeom 98.1 | Florida
+http://s4.mexside.net:2142/;#.mp3
+#EXTINF:-1, FMC,Faro 98.1 | Rocha
+http://streaming.capasiete.com:9456/;
+#EXTINF:-1, FMC,Adeom 98.5 | Lavalleja
+https://sslstreaming.com/8044/stream
+#EXTINF:-1, FMC,Encuentro 99.1 | Canelones
+#EXTVLCOPT:http-referrer=https://encuentroofm991.radiostream321.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://freeuk5.listen2myradio.com/live.mp3?typeportmount=s1_6434_stream_908261581
+#EXTINF:-1, FMC,El Carrillón 99.7 | Florida
+http://emisiones.com.uy:8081/carrillo
+#EXTINF:-1, FMC,Resplandor 99.7 | Montevideo
+https://panel.streamenviron.com:8022/stream
+#EXTINF:-1, FMC,Extremo 100.9 | Salto
+http://emisiones.com.uy:8111/bour
+#EXTINF:-1, FMC,Activa 101.1 | Florida Capital
+https://streaming1.hostingmontevideo.com:7014/;
+#EXTINF:-1, FMC,Neutral 101.1 | Nico Pérez, Florida
+http://audiohd.sonidosenlared.com:6390/stream
+#EXTINF:-1, FMC,Infinito 101.1 | Canelones
+https://ssl.srvstm.com:8672/;
+#EXTINF:-1, FMC,Hiperactiva 102.1 | Rivera
+https://srv2.radiostreamuy.com:8050/stream
+#EXTINF:-1, FMC,Nexo 102.3 | Montevideo
+http://212.83.138.48:8206/;
+#EXTINF:-1, FMC,Digital 102.3 | Florida
+#EXTVLCOPT:http-referrer=https://digital1023fm.radiostream123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://freeuk21.listen2myradio.com/live.mp3?typeportmount=ice_34718_stream_21350234
+#EXTINF:-1, FMC,Corsaria 102.5 | Montevideo
+#EXTVLCOPT:http-referrer=https://corsariafm.radio12345.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_22703_stream_79566339
+#EXTINF:-1, FMC,Radiolugares 102.7 | Colonia
+http://200.58.101.247:8232/;
+#EXTINF:-1, FMC,El Puente 103.3 | La Teja, Montevideo
+http://radios-online.info:4130/;
+#EXTINF:-1, FMC,Radio Ciudadana 103.3 | Flor de Maroñas, Montevideo
+http://stream.zeno.fm/65h59sw071zuv
+#EXTINF:-1, FMC,Latorre 103.9 | Florida
+http://107.170.111.32:2960/;stream.mp3
+#EXTINF:-1, FMC,Génesis 104.1 | Artigas
+https://stream.zeno.fm/b0406cxhswzuv
+#EXTINF:-1, FMC,Pueblo 104.1 | Durazno
+https://radiolinksmedia.net.ar/8811/;
+#EXTINF:-1, FMC,La Otra 104.5 | Paysandú
+http://144.217.67.108:9242/;
+#EXTINF:-1, FMC,Voces 104.5 | Maldonado
+https://streamingraddios.online/proxy/vhcastro?mp=/stream/;stream/1
+#EXTINF:-1, FMC,Del Parque 105.1 | Salto
+http://192.240.99.146:8133/parque
+#EXTINF:-1, FMC,Del Carmen 105.3 | Montevideo
+http://radios-online.info:2930/;
+#EXTINF:-1, FMC,Nueva Helvecia 105.3 | Colonia
+https://player.audiovox.pw/proxy/7490/;
+#EXTINF:-1, FMC,City 105.3 | Canelones
+#EXTVLCOPT:http-referrer=https://lacityfm.radio12345.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s2_5648_stream_406191142
+#EXTINF:-1, FMC,Radiocien 105.3 | Rivera
+http://80.84.57.76:22219/
+#EXTINF:-1, FMC,Ozono 105.9 | Salto
+https://emisiones.com.uy:8151/ozono
+#EXTINF:-1, FMC,Sintonía 106.3 | Canelones
+http://usa15.ciudaddigital.com.uy:8120/SintoniaFM
+#EXTINF:-1, FMC,Artigas 106.3
+http://emisiones.com.uy:5108/artigas
+#EXTINF:-1, FMC,Horizonte 106.3 | Paysandú
+https://sonic.dattalive.com/8110/;
+#EXTINF:-1, FMC,Impulso 106.9 | Artigas
+#EXTVLCOPT:http-referrer=https://impulsofm.radio12345.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_19504_stream_433216927
+#EXTINF:-1, FMC,Virtual 107.1 | Salto
+http://emisiones.com.uy:8136/virtual
+
 #EXTINF:-1, Radiocadenas,CORI
 http://stream.zeno.fm/fcy524n5h18uv
 
@@ -636,20 +909,64 @@ https://sslstream.online/8094/stream
 https://radio13.servidorderadio.net:7107/stream
 #EXTINF:-1, Radio Online,Radio Pedal
 http://streaming2.hostingmontevideo.com/8052/RNFU9ACR7
+#EXTINF:-1, Radio Online,Viví FM
+https://vivifm-zikoxweb2.radioca.st/stream
 #EXTINF:-1, Radio Online,Montevideo Online
 https://streamingraddios.online/proxy/rmelo?mp=/stream
+#EXTINF:-1, Radio Online,Mediarte Señal 1
+http://radio.tallerderadio.com:8050/stream/1/
+#EXTINF:-1, Radio Online,Mediarte Señal 2
+http://radio.tallerderadio.com:8060/stream/1/
+#EXTINF:-1, Radio Online,Radio Floridense
+http://giss.tv:8000/radiofloridense.mp3
+#EXTINF:-1, Radio Online,Info Ideas Radio | Lavalleja
+http://infoideas-zikoxweb.radioca.st/stream;.mp3
+#EXTINF:-1, Radio Online,Caba Radio | Paysandú
+http://stream.zeno.fm/4yhqs9v1mm5tv
+#EXTINF:-1, Radio Online,Pan de Azúcar | Maldonado
+http://emisiones.com.uy:8140/pande
+#EXTINF:-1, Radio Online,Laser FM | Maldonado
+http://server.laradio.online:8691/;
+#EXTINF:-1, Radio Online,Radio Delirio | Tacuarembó
+https://srv.radiostreamuy.com:1065/stream
 #EXTINF:-1, Radio Online,Música De Más
 http://emisiones.com.uy:8120/demas
 #EXTINF:-1, Radio Online,Circuito21
 http://emisiones.com.uy:5109/circuito
+#EXTINF:-1, Radio Online,InfoMotores Radio
+http://51.161.84.170:8998/;
+#EXTINF:-1, Radio Online,Carnaval del Futuro
+https://sp.totalstreaming.net/8164/stream
+#EXTINF:-1, Radio Online,Canto y Fogón Radio
+https://sslstreaming.com:7031/;
+#EXTINF:-1, Radio Online,Radio Reggae Suena
+http://laraza.radioca.st:8103/autodj
+#EXTINF:-1, Radio Online,Montevideo Jazz Radio
+http://stream.zeno.fm/2ykx0xbm6gruv
+#EXTINF:-1, Radio Online,Neo DJ Radio
+https://stream.zeno.fm/00qbs0snvzzuv
+#EXTINF:-1, Radio Online,Radio Uno Digital
+https://server-usa2.radioseninternet.net/8000/stream
 #EXTINF:-1, Radio Online,Cenit
 https://argentina.republicahosting.com:1931/live
 #EXTINF:-1, Radio Online,Energy Uruguay
 https://server6.hostradios.com:7108/;
+#EXTINF:-1, Radio Online,Uruguay FM Mix
+https://stream.zeno.fm/7s0cw6c77gruv
+#EXTINF:-1, Radio Online,JC Radio
+http://201.217.133.134:8035/;
+#EXTINF:-1, Radio Online,EstiloFM
+https://streamingraddios.online/proxy/robert1?mp=/stream
 #EXTINF:-1, Radio Online,La Movida Online
 http://192.3.104.131:8068/stream/1/
 #EXTINF:-1, Radio Online,Nostalgia Radio
 https://centova.streamrdm.com:4087/stream
+#EXTINF:-1, Radio Online,FM93
+http://162.244.80.106:11069/stream
+#EXTINF:-1, Radio Online,Radio El Aguantadero
+http://server.gostreaming.com.ar:8096/;
+#EXTINF:-1, Radio Online,Boliche Radio
+http://streaming1.locucionar.com:13470/;
 #EXTINF:-1, Radio Online,Radio Informarte
 http://emisiones.com.uy:8131/yoru
 #EXTINF:-1, Radio Online,Radio La Zurda
