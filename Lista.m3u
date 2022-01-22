@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Lista actualizada 15/01/2022,TVRío Play
+#EXTINF:-1, Lista actualizada 22/01/2022,TVRío Play
 https://i.imgur.com/jhdpCad.png
 #EXTINF:-1, @Medios_Rioplatenses,Comentarios y reportes en Telegram
 https://i.imgur.com/jAz8T0N.png
@@ -11,7 +11,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1610
 #EXTINF:-1, TV,Canal 4 [HD3]
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102360
 #EXTINF:-1, TV,Canal 4 [SD1]
-http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3816.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64454
 #EXTINF:-1, TV,Canal 5 [HD1]
 http://tv.nousiptv.com:8080/rommy/12345/19351
 #EXTINF:-1, TV,Canal 5 [SD1]
@@ -26,8 +26,6 @@ http://qqtv.nl:8080/norma/12345/87105
 https://www.subrayado.com.uy/resources/_post/subrayado/get-vivo.php
 #EXTINF:-1, TV,Canal 10 [HD2]
 http://tv.nousiptv.com:8080/rommy/12345/18567
-#EXTINF:-1, TV,Canal 10 [HD3]
-http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3818.m3u8
 #EXTINF:-1, TV,Canal 10 [SD1]
 http://tv.nousiptv.com:8080/rommy/12345/3344
 #EXTINF:-1, TV,Canal 10 [SD2]
@@ -37,7 +35,7 @@ http://tv.nousiptv.com:8080/rommy/12345/3620
 #EXTINF:-1, TV,Teledoce [HD2]
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102362
 #EXTINF:-1, TV,Teledoce [SD1]
-http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3817.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/64455
 #EXTINF:-1, TV,Teledoce [SD2]
 http://tv.nousiptv.com:8080/rommy/12345/18731
 #EXTINF:-1, TV,La Red [HD1]
@@ -45,7 +43,7 @@ https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8
 #EXTINF:-1, TV,La Red [HD2]
 http://tv.nousiptv.com:8080/rommy/12345/35428
 #EXTINF:-1, TV,La Red [HD3]
-http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3824.m3u8
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32985
 #EXTINF:-1, TV,VTV [FHD1]
 http://tv.nousiptv.com:8080/rommy/12345/3802
 #EXTINF:-1, TV,VTV [HD1]
@@ -53,15 +51,13 @@ http://tv.nousiptv.com:8080/rommy/12345/22204
 #EXTINF:-1, TV,VTV [HD2]
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24023
 #EXTINF:-1, TV,VTV [SD1]
-http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/3828.m3u8
-#EXTINF:-1, TV,VTV [SD2]
 http://tv.nousiptv.com:8080/rommy/12345/3598
 #EXTINF:-1, TV,VTV Plus [HD1]
 http://tv.nousiptv.com:8080/rommy/12345/19354
 #EXTINF:-1, TV,VTV Plus [HD2]
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/74130
 #EXTINF:-1, TV,VTV Plus [HD3]
-http://ultraxplaytv.com:8000/live/bastianagv/R41pnHoMCd/169722.m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/320812
 #EXTINF:-1, TV,VTV Plus [SD1]
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/23860
 #EXTINF:-1, TV,Directv Sports Uruguay [HD1]
@@ -364,12 +360,14 @@ https://server.laradio.online/proxy/guillermo_castro?mp=/stream
 https://ssl.gmpro.top:7006/;
 #EXTINF:-1, FM,Lacosta 88.3 | Canelones
 https://lacostafm.net.com.uy:8050/stream
-#EXTINF:-1, FM,88.3 Delta | Lavalleja
+#EXTINF:-1, FM,Delta 88.3 | Lavalleja
 https://server-usa2.radioseninternet.net/8104/stream
 #EXTINF:-1, FM,Frontera 88.3 | Artigas
 http://emisiones.com.uy:5103/fmfront
 #EXTINF:-1, FM,Del Lago 88.3 | Salto
 http://emisiones.com.uy:8116/lago
+#EXTINF:-1, FM,Oxígeno 88.3 | Rocha [Solo prog. en vivo]
+http://streaming1.hostingmontevideo.com/8050/stream
 #EXTINF:-1, FM,Columbia 88.5 | Rivera
 http://stm.gmpro.top:7008/;
 #EXTINF:-1, FM,Libertad 88.5 | San José
@@ -700,8 +698,10 @@ http://163.182.175.106:7082/;
 http://streaming1.hostingmontevideo.com:8026/stream
 #EXTINF:-1, FM,Tranqueras 107.3 | Rivera
 https://sp1.streamingssl.com/8038/stream;
-#EXTINF:-1, FM,Uni Radio 107.7 | Montevideo
+#EXTINF:-1, FM,Uni Radio 107.7 | Montevideo [1]
 http://uniradio.edu.uy:8008/uniradio
+#EXTINF:-1, FM,Uni Radio 107.7 | Montevideo [2]
+https://uniradio.edu.uy:8443/uniradio
 #EXTINF:-1, FM,Rincón 107.7 | Río Negro
 http://149.56.195.94:8366/stream
 #EXTINF:-1, FM,Mundo 107.9 | Salto
@@ -929,6 +929,12 @@ http://emisiones.com.uy:8140/pande
 http://server.laradio.online:8691/;
 #EXTINF:-1, Radio Online,Radio Delirio | Tacuarembó
 https://srv.radiostreamuy.com:1065/stream
+#EXTINF:-1, Radio Online,Música en el Aire | Colonia
+https://server-usa2.radioseninternet.net/9508/stream
+#EXTINF:-1, Radio Online,IdeasWeb Radio | Canelones
+https://radios.iwstreaming.uy/8018/stream
+#EXTINF:-1, Radio Online,La Púa Digital | Durazno
+http://stream.zeno.fm/dyagpsqc2d0uv
 #EXTINF:-1, Radio Online,Música De Más
 http://emisiones.com.uy:8120/demas
 #EXTINF:-1, Radio Online,Circuito21
